@@ -1,2 +1,0 @@
-hello java
-how are you
